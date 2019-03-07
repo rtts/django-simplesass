@@ -11,5 +11,6 @@ setup(
     packages = ['simplesass'],
     install_requires = [
         'django',
+        'libsass',
     ],
 )
